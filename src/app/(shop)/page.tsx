@@ -95,7 +95,7 @@ export default async function Home({ searchParams }: Props) {
         </div>
       </div>
       <Title
-        title="🌟 Articulos Populares 🌟"
+        title="🌟 Artículos Populares 🌟"
         subtitle=""
         className="mb-2 text-center"
       />
